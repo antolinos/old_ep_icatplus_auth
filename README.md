@@ -1,4 +1,4 @@
-# Etherpad lite LDAP authentication and authorization
+# Etherpad lite ICAT+ authentication and authorization
 
 ## Install
 
